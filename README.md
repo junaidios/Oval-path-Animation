@@ -3,4 +3,4 @@
 
 ## Output
 
-[![GIF](https://github.com/junaidios/Oval-path-Animation/blob/master/output.gif)]
+![GIF](https://github.com/junaidios/Oval-path-Animation/blob/master/output.gif)
